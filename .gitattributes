@@ -1,1 +1,2 @@
-*.rb linguist-language=Python
+Scripts/Data Preprocessing/* linguist-vendored
+Dissertation/* linguist-vendored
